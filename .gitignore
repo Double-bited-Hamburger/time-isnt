@@ -1,0 +1,5 @@
+# flat assembler is third-party: download it into tools\fasm (see README)
+tools/
+
+# build output, published as a release asset instead
+*.exe
